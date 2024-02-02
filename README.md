@@ -1,5 +1,4 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/8399851?v=4" />
    <h3 align="center">¡Hola 👋! Soy Juan Carlos Silva Panta - tibiyacks</h3>
 </p>
 <h3 align="center">Soy analista programador freelance, llevo 10 años en el mundo de la tecnología</h3>
