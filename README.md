@@ -46,13 +46,13 @@
 
 * 🏥 **HealthTech & Salud Ocupacional:** Ecosistemas clínicos integrales, codificación CIE-10, arquitecturas satélite desacopladas e IA Multimodal (**Gemini**).
 * 💳 **Fintech & Liquidación Masiva:** Conciliación automatizada de bonos, cruce algorítmico e integración directa con **Odoo ERP**.
-* 📊 **Data Engineering & Analítica:** Ingesta y manipulación masiva de datos relacionales en Python para reportabilidad directiva en tiempo real.
-* ✒️ **LegTech & Compliance:** Plataformas SaaS corporativas de firma electrónica y despapelización total.
-* 🛢️ **Oil & Gas & Supervisión Operativa:** Plataformas de gestión de pozos, reportabilidad automatizada de campo y control de paradas.
+* 🏛️ **GovTech & Administración Pública:** Intranets corporativas, gestión documental, soporte de TI y centralización administrativa municipal.
+* 🚜 **Ingeniería & Maquinaria Pesada:** Mantenimiento predictivo, calibración de equipos y control de combustible para flotas móviles.
+* 🛡️ **Seguridad Privada & Operaciones:** Digitalización móvil de novedades en campo, plantillas operativas e integración con sistemas in-house (SIGAC).
 
 ---
 
-### 🚀 Soluciones Empresariales & Casos de Estudio
+### 🚀 Casos de Éxito
 
 <details open>
 <summary><b>🏥 Ecosistema de Salud Ocupacional · Clínica Victal / EMNOR (Core Clínico + Suite Satélite IA)</b></summary>
@@ -64,7 +64,7 @@
 </details>
 
 <details open>
-<summary><b>💳 Portal de Finanzas & Conciliación Masiva · JS Market (2026)</b></summary>
+<summary><b>💳 Portal de Finanzas & Conciliación Masiva · JS Market</b></summary>
 <br>
 
 * **Desafío:** Liquidación manual de bonos e incentivos comerciales en hojas de cálculo complejas, con alto riesgo operativo y demoras prolongadas.
@@ -73,30 +73,30 @@
 </details>
 
 <details>
-<summary><b>📊 Data Ingestion Core · Automatización Backend & Data en Python</b></summary>
+<summary><b>🏛️ Intranet Corporativa & Gestión Administrativa · Municipalidad Provincial de Talara</b></summary>
 <br>
 
-* **Desafío:** Lentitud en la generación de inteligencia de negocio para comités directivos.
-* **Solución:** Núcleo de ingesta y transformación de datos en Python para manipulación avanzada de bases de datos relacionales y generación masiva de reportes.
-* **Impacto:** **Reportes ejecutivos en tiempo real** sobre grandes volúmenes de datos transaccionales.
+* **Desafío:** Procesos administrativos dispersos, lentitud en solicitudes internas de TI y comunicación desorganizada en la administración pública.
+* **Solución:** Intranet institucional centralizada con directorio y legajos de personal, sistema de tickets de TI con seguimiento en tiempo real, repositorio de gestión documental con permisos granulares por área, centro multimedia de capacitaciones y anuncios prioritarios.
+* **Impacto:** **Centralización operativa municipal**, agilización inmediata de requerimientos internos y transparencia en la comunicación institucional.
 </details>
 
 <details>
-<summary><b>✒️ Digital Signature SaaS · LegTech & Transformación Digital</b></summary>
+<summary><b>🚜 Control de Flota, Mantenimiento & Combustible · Felecin Ingenieros</b></summary>
 <br>
 
-* **Desafío:** Costos y demoras logísticas asociadas a la firma de documentación legal física.
-* **Solución:** Plataforma SaaS corporativa para gestión de firmas electrónicas con validez probatoria y trazabilidad legal.
-* **Impacto:** **100% de despapelización corporativa** y cumplimiento normativo blindado.
+* **Desafío:** Gestión en papel y hojas de cálculo para el abastecimiento de combustible y mantenimiento de unidades móviles y maquinaria pesada, con riesgo de paradas imprevistas y vencimientos de documentación.
+* **Solución:** Plataforma web integral para control de mantenimientos preventivos y correctivos, calibración de equipos, monitoreo de combustible por unidad y kilometraje, y sistema de alertas automáticas para vencimiento de licencias y pólizas vehiculares.
+* **Impacto:** **Mantenimiento predictivo garantizado**, reducción drástica de tiempos muertos por fallas mecánicas y control estricto del gasto de combustible.
 </details>
 
 <details>
-<summary><b>🛢️ Mathiuss LiftOil · Oil & Gas & Plataforma Operativa (.NET)</b></summary>
+<summary><b>🛡️ Reportes Operativos en Tiempo Real & Integración SIGAC · Servicios de Vigilancia «El Cóndor»</b></summary>
 <br>
 
-* **Desafío:** Centralización operativa y seguimiento de +80 pozos petroleros para facilitar la gestión y reportabilidad de paradas críticas de campo.
-* **Solución:** Desarrollo de módulos de gestión y reportes automáticos de producción sobre arquitectura **.NET** con distribución multiplataforma (Web / Desktop Tauri).
-* **Impacto:** Plataforma unificada de supervisión operativa y generación ágil de reportes consolidados para jefaturas de campo.
+* **Desafío:** Reporte manual de ocurrencias de agentes de seguridad mediante llamadas telefónicas y transcripción demorada a matrices de Excel en el centro de control.
+* **Solución:** Sistema web responsive integrado con el software in-house (**SIGAC**), plantillas de reporte con un solo clic para eventos recurrentes, búsqueda avanzada de incidencias y exportación ejecutiva en PDF.
+* **Impacto:** **Registro móvil inmediato desde los puestos de vigilancia**, supresión de llamadas telefónicas operativas y supervisión en tiempo real para jefaturas de operaciones.
 </details>
 
 ---
