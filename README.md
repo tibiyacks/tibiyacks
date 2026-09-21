@@ -46,23 +46,23 @@
 
 ### 🌐 Industrias & Áreas de Impacto
 
-* 🛢️ **Oil & Gas & IoT Industrial:** Telemetría de pozos en tiempo real, protocolo industrial Modbus y monitoreo de paradas operativas.
-* 💳 **Fintech & Liquidación Masiva:** Conciliación automatizada de bonos, cruce algorítmico e integración con **Odoo ERP**.
-* 🏥 **HealthTech & Vigilancia Médica:** Arquitecturas satélite desacopladas, pipelines con IA Multimodal (**Gemini**) y cumplimiento normativo SST.
-* 📦 **Logística & Flotas:** Control operativo vehicular, telemetría y reglas de mantenimiento preventivo.
-* ✒️ **LegTech & Compliance:** Plataformas SaaS de firma electrónica y despapelización corporativa total.
+* 🏥 **HealthTech & Salud Ocupacional:** Ecosistemas clínicos integrales, codificación CIE-10, arquitecturas satélite desacopladas e IA Multimodal (**Gemini**).
+* 💳 **Fintech & Liquidación Masiva:** Conciliación automatizada de bonos, cruce algorítmico e integración directa con **Odoo ERP**.
+* 📊 **Data Engineering & Analítica:** Ingesta y manipulación masiva de datos relacionales en Python para reportabilidad directiva en tiempo real.
+* ✒️ **LegTech & Compliance:** Plataformas SaaS corporativas de firma electrónica y despapelización total.
+* 🛢️ **Oil & Gas & IoT Industrial:** Telemetría de pozos petroleros en tiempo real, protocolo industrial Modbus y monitoreo de paradas operativas.
 
 ---
 
 ### 🚀 Soluciones Empresariales & Casos de Estudio
 
 <details open>
-<summary><b>🛢️ Mathiuss LiftOil · Oil & Gas, Telemetría Industrial IoT & .NET</b></summary>
+<summary><b>🏥 Ecosistema de Salud Ocupacional · Clínica Victal / EMNOR (Core Clínico + Suite Satélite IA)</b></summary>
 <br>
 
-* **Desafío:** Monitoreo y supervisión operativa en tiempo real de +80 pozos petroleros con lecturas de campo y paradas no centralizadas.
-* **Solución:** Arquitectura en **.NET** con ingesta continua de datos de instrumentación vía **Protocolo Modbus**, alertas operativas y reportes automatizados de producción (Web / Desktop Tauri).
-* **Impacto:** Telemetría unificada en vivo y detección inmediata de fallas mecánicas y paradas críticas.
+* **Core Transaccional Clínico (`atencionesmedicas`):** Plataforma integral para la operación diaria de la clínica. Gestiona el ciclo médico completo: registro de atenciones con codificación **CIE-10**, gestión de historias ocupacionales, seguimiento y vencimiento de exámenes médicos laborales, control de trabajadores por empresa/subcontratista, y módulo de farmacia y almacén con inventario de medicamentos e insumos médicos (PHP REST, MySQL y arquitectura MVC).
+* **Suite Satélite con IA (`backend & frontend satellite`):** Arquitectura satélite desacoplada (**NestJS** + **PostgreSQL** + **React**) con sincronización ETL híbrida para no sobrecargar el core transaccional. Integra un pipeline de **IA Multimodal (Gemini API)** para extracción y estructuración automatizada de legajos médicos desde PDFs masivos con validación supervisada (*Human-in-the-Loop*) y generación automática de informes técnicos normativos SST.
+* **Impacto Global:** **Digitalización del 100% de la operativa clínica y exámenes ocupacionales**, trazabilidad total de historias médicas y cumplimiento normativo blindado sin riesgo de paradas en el sistema principal.
 </details>
 
 <details open>
@@ -72,33 +72,6 @@
 * **Desafío:** Liquidación manual de bonos e incentivos comerciales en hojas de cálculo complejas, con alto riesgo operativo y demoras prolongadas.
 * **Solución:** App web de procesamiento automatizado basada en ingesta de archivos (sin formularios manuales), cruce directo contra **Odoo ERP** y emisión de órdenes de pago con notificación en un clic.
 * **Impacto:** **Reducción de tiempos de horas a minutos**, eliminación total de errores de cálculo y trazabilidad auditada al 100%.
-</details>
-
-<details>
-<summary><b>🏥 Backend Satélite Victal · HealthTech, Arquitectura Desacoplada & IA Multimodal</b></summary>
-<br>
-
-* **Desafío:** Un sistema clínico transaccional preexistente en MySQL requería evolucionar hacia inteligencia operativa, vigilancia médica (SST) y procesamiento masivo de legajos médicos sin degradar la base de datos principal.
-* **Solución:** Diseño de una **arquitectura satélite desacoplada** con API en **NestJS**, base de datos analítica en **PostgreSQL**, frontend en **React** y sincronización híbrida (ETL incremental cron/demanda). Integración de un pipeline de **IA Multimodal (Gemini API)** para extracción y estructuración inteligente de historias médicas desde PDFs con validación *Human-in-the-Loop* y generación automática de informes técnicos normativos.
-* **Impacto:** **Aislamiento total y cero degradación sobre el sistema legacy**, reducción drástica de horas médicas en transcripción de legajos y automatización de la vigilancia SST.
-</details>
-
-<details>
-<summary><b>📈 JS Market Core · Fintech & Motores Lógicos Masivos</b></summary>
-<br>
-
-* **Desafío:** Procesamiento masivo de bases de datos para cálculo de comisiones con alto riesgo operativo derivado de fórmulas manuales en hojas de cálculo.
-* **Solución:** Motor lógico optimizado para ejecución de reglas financieras y procesamiento en lote de grandes volúmenes de datos.
-* **Impacto:** **90% de ahorro de tiempo operativo** y **100% de precisión financiera**.
-</details>
-
-<details>
-<summary><b>🩺 EMNOR · Salud Ocupacional, Logística & Compliance</b></summary>
-<br>
-
-* **Desafío:** Gestión fragmentada de historias ocupacionales y dispersión de alertas en flujos logísticos médicos.
-* **Solución:** Sistema modular que centraliza flujos logísticos, integración con APIs de mensajería (WhatsApp, Email) y control de alertas bajo estrictas normativas de cumplimiento.
-* **Impacto:** **Trazabilidad total de extremo a extremo** y flujos operativos completamente automatizados.
 </details>
 
 <details>
@@ -117,6 +90,15 @@
 * **Desafío:** Costos y demoras logísticas asociadas a la firma de documentación legal física.
 * **Solución:** Plataforma SaaS corporativa para gestión de firmas electrónicas con validez probatoria y trazabilidad legal.
 * **Impacto:** **100% de despapelización corporativa** y cumplimiento normativo blindado.
+</details>
+
+<details>
+<summary><b>🛢️ Mathiuss LiftOil · Oil & Gas, Telemetría Industrial IoT & .NET</b></summary>
+<br>
+
+* **Desafío:** Monitoreo y supervisión operativa en tiempo real de +80 pozos petroleros con lecturas de campo y paradas no centralizadas.
+* **Solución:** Arquitectura en **.NET** con ingesta continua de datos de instrumentación vía **Protocolo Modbus**, alertas operativas y reportes automatizados de producción (Web / Desktop Tauri).
+* **Impacto:** Telemetría unificada en vivo y detección inmediata de fallas mecánicas y paradas críticas.
 </details>
 
 ---
