@@ -112,6 +112,18 @@
   </a>
 </div>
 
+```text
+🎧 Spotify | Heavy Rotation
+
+1. ▶ Mägo de Oz
+2. ▶ The Rasmus
+3. ▶ Rammstein
+4. ▶ El Cuarteto de Nos
+5. ▶ Good Charlotte
+6. ▶ SCANDAL
+7. ▶ Pelo Madueño
+```
+
 ---
 
 <div align="center">
