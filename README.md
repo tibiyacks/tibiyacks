@@ -35,9 +35,9 @@
 ### 📊 Actividad en Vivo & Métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tibiyacks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="Estadísticas de GitHub" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tibiyacks&theme=github_dark" alt="Estadísticas de GitHub" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibiyacks&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Lenguajes de Programación" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tibiyacks&theme=github_dark" alt="Lenguajes Más Usados" height="150" />
 </p>
 
 </div>
