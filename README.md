@@ -39,21 +39,21 @@
 ### 🚀 Soluciones Empresariales & Casos de Estudio
 
 <details open>
-<summary><b>🛢️ Mathiuss LiftOil · Oil & Gas, Telemetría Industrial IoT & .NET Workers</b></summary>
+<summary><b>🛢️ Mathiuss LiftOil · Oil & Gas, Telemetría Industrial IoT & .NET</b></summary>
 <br>
 
-* **Desafío:** Supervisión y monitoreo operativo en tiempo real de más de 80 pozos petroleros en diversos lotes de producción. La dispersión de mediciones de campo, códigos de falla y registros manuales generaba demoras en la detección de paradas críticas y la emisión de reportes diarios.
-* **Solución:** Arquitectura de alto rendimiento con **Workers en .NET** para ingesta continua de telemetría de instrumentación de pozos mediante **Protocolo Modbus** (mapeo de registros de memoria analógicos y digitales CRE/Recoil). Plataforma gobernada por Architecture Decision Records (ADRs), catálogo de variables industriales, despacho automático de reportes cada 4 horas y distribución multiplataforma (Web / Desktop Tauri).
-* **Impacto:** **Monitoreo unificado de pozos en tiempo real**, eliminación de la reconciliación manual de telemetría y certeza inmediata en reportabilidad de paradas operativas y fallas mecánicas.
+* **Desafío:** Monitoreo y supervisión operativa en tiempo real de +80 pozos petroleros con lecturas de campo y paradas no centralizadas.
+* **Solución:** Arquitectura en **.NET** con ingesta continua de datos de instrumentación vía **Protocolo Modbus**, alertas operativas y reportes automatizados de producción (Web / Desktop Tauri).
+* **Impacto:** Telemetría unificada en vivo y detección inmediata de fallas mecánicas y paradas críticas.
 </details>
 
 <details open>
 <summary><b>💳 Portal de Finanzas & Conciliación Masiva · JS Market (2026)</b></summary>
 <br>
 
-* **Desafío:** Liquidación manual de incentivos comerciales en distribución de telecomunicaciones. El cruce manual de jerarquías complejas (Punto de Venta vs. vendedor de apoyo) en hojas de cálculo provocaba cuellos de botella operativos y alto riesgo de desvíos en montos a transferir.
-* **Solución:** Aplicación web con arquitectura *File-Driven Ingestion Engine* (sin formularios manuales). Ingesta directa de archivos masivos de metas, cruce algorítmico contra maestros de **Odoo ERP**, aplicación automática de reglas de negocio para emitir Órdenes de Pago, conciliación inversa con respuestas bancarias y despacho automático de notificaciones a Finanzas y Jefes Zonales en un clic.
-* **Impacto:** **Reducción del tiempo de procesamiento de horas a minutos**, eliminación total del error humano y **100% de trazabilidad y auditoría histórica**.
+* **Desafío:** Liquidación manual de bonos e incentivos comerciales en hojas de cálculo complejas, con alto riesgo operativo y demoras prolongadas.
+* **Solución:** App web de procesamiento automatizado basada en ingesta de archivos (sin formularios manuales), cruce directo contra **Odoo ERP** y emisión de órdenes de pago con notificación en un clic.
+* **Impacto:** **Reducción de tiempos de horas a minutos**, eliminación total de errores de cálculo y trazabilidad auditada al 100%.
 </details>
 
 <details>
