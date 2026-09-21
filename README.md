@@ -107,8 +107,8 @@
 
 <div align="center">
   <p><i>Arquitectura limpia, sistemas de alta disponibilidad y buena música en los audífonos:</i></p>
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tibiyacks&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/12129442678" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12129442678&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing" />
   </a>
 </div>
 
