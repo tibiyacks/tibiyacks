@@ -8,31 +8,49 @@
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-24292e?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
 <p align="center">
-  <strong>+10 años diseñando sistemas empresariales a medida, motores de telemetría y arquitecturas de software robustas para sectores críticos.</strong>
+  <strong>+10 años diseñando sistemas empresariales a medida, telemetría industrial y arquitecturas de software robustas para sectores críticos.</strong>
+</p>
+
+### 🛠️ Core Stack & Infraestructura
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+### 📊 Telemetría & Actividad en Vivo
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tibiyacks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="Estadísticas de GitHub" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibiyacks&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Lenguajes de Programación" height="150" />
 </p>
 
 </div>
 
 ---
 
-### 📋 Ficha Técnica & Enfoque Profesional
+### 🌐 Industrias & Áreas de Impacto
 
-<table>
-<thead>
-<tr>
-<th colspan="2">Executive Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row' width='28%'>Rol Principal</th><td>Senior Software Engineer & Solutions Architect</td></tr>
-<tr><th scope='row'>Modelo de Trabajo</th><td>Consultoría Independiente & Desarrollo de Sistemas de Alto Impacto</td></tr>
-<tr><th scope='row'>Experiencia</th><td>+10 años en producción para diversas industrias</td></tr>
-<tr><th scope='row'>Sectores de Especialidad</th><td>Oil & Gas (IoT Industrial), Fintech, Telecomunicaciones, HealthTech, Logística y LegTech</td></tr>
-<tr><th scope='row'>Especialidades Core</th><td>Telemetría Industrial, Conciliación Financiera Masiva, Arquitecturas Satélite, Integración ERP y APIs</td></tr>
-<tr><th scope='row'>Infraestructura & Servidores</th><td>Ubuntu Server, Debian, Windows Server, Nginx, Docker</td></tr>
-<tr><th scope='row'>Ubicación & Cobertura</th><td>Piura, Perú · Servicios de consultoría y desarrollo remoto global</td></tr>
-</tbody>
-</table>
+* 🛢️ **Oil & Gas & IoT Industrial:** Telemetría de pozos en tiempo real, protocolo industrial Modbus y monitoreo de paradas operativas.
+* 💳 **Fintech & Liquidación Masiva:** Conciliación automatizada de bonos, cruce algorítmico e integración con **Odoo ERP**.
+* 🏥 **HealthTech & Vigilancia Médica:** Arquitecturas satélite desacopladas, pipelines con IA Multimodal (**Gemini**) y cumplimiento normativo SST.
+* 📦 **Logística & Flotas:** Control operativo vehicular, telemetría y reglas de mantenimiento preventivo.
+* ✒️ **LegTech & Compliance:** Plataformas SaaS de firma electrónica y despapelización corporativa total.
 
 ---
 
@@ -100,55 +118,6 @@
 * **Solución:** Plataforma SaaS corporativa para gestión de firmas electrónicas con validez probatoria y trazabilidad legal.
 * **Impacto:** **100% de despapelización corporativa** y cumplimiento normativo blindado.
 </details>
-
----
-
-### 🛠️ Stack Tecnológico & Servidores
-
-```
-Arquitectura: Clean Architecture | Event & File-Driven Ingestion | Modular Monoliths | Industrial Telemetry | RESTful APIs
-Infraestructura: Linux (Ubuntu Server, Debian) | Windows Server | Docker | Nginx Reverse Proxy | Git
-```
-
-<div align="center">
-
-#### Backend & Lenguajes
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java_/_Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-#### Frontend & Móvil
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-#### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-#### Infraestructura & Entorno
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-</div>
-
----
-
-### 📊 Métricas de Actividad
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tibiyacks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibiyacks&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Lenguajes de Programación" height="150" />
-</div>
 
 ---
 
