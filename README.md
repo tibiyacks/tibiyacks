@@ -8,7 +8,7 @@
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-24292e?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
 <p align="center">
-  <strong>+10 años diseñando sistemas empresariales a medida, telemetría industrial y arquitecturas de software robustas para sectores críticos.</strong>
+  <strong>+10 años transformando procesos operativos complejos en software empresarial eficiente, confiable y orientado a resultados de negocio.</strong>
 </p>
 
 ### 🛠️ Core Stack & Infraestructura
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 Telemetría & Actividad en Vivo
+### 📊 Actividad en Vivo & Métricas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tibiyacks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="Estadísticas de GitHub" height="150" />
@@ -50,7 +50,7 @@
 * 💳 **Fintech & Liquidación Masiva:** Conciliación automatizada de bonos, cruce algorítmico e integración directa con **Odoo ERP**.
 * 📊 **Data Engineering & Analítica:** Ingesta y manipulación masiva de datos relacionales en Python para reportabilidad directiva en tiempo real.
 * ✒️ **LegTech & Compliance:** Plataformas SaaS corporativas de firma electrónica y despapelización total.
-* 🛢️ **Oil & Gas & IoT Industrial:** Telemetría de pozos petroleros en tiempo real, protocolo industrial Modbus y monitoreo de paradas operativas.
+* 🛢️ **Oil & Gas & Supervisión Operativa:** Plataformas de gestión de pozos, reportabilidad automatizada de campo y control de paradas.
 
 ---
 
@@ -93,12 +93,12 @@
 </details>
 
 <details>
-<summary><b>🛢️ Mathiuss LiftOil · Oil & Gas, Telemetría Industrial IoT & .NET</b></summary>
+<summary><b>🛢️ Mathiuss LiftOil · Oil & Gas & Plataforma Operativa (.NET)</b></summary>
 <br>
 
-* **Desafío:** Monitoreo y supervisión operativa en tiempo real de +80 pozos petroleros con lecturas de campo y paradas no centralizadas.
-* **Solución:** Arquitectura en **.NET** con ingesta continua de datos de instrumentación vía **Protocolo Modbus**, alertas operativas y reportes automatizados de producción (Web / Desktop Tauri).
-* **Impacto:** Telemetría unificada en vivo y detección inmediata de fallas mecánicas y paradas críticas.
+* **Desafío:** Centralización operativa y seguimiento de +80 pozos petroleros para facilitar la gestión y reportabilidad de paradas críticas de campo.
+* **Solución:** Desarrollo de módulos de gestión y reportes automáticos de producción sobre arquitectura **.NET** con distribución multiplataforma (Web / Desktop Tauri).
+* **Impacto:** Plataforma unificada de supervisión operativa y generación ágil de reportes consolidados para jefaturas de campo.
 </details>
 
 ---
