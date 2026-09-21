@@ -32,12 +32,10 @@
 
 ---
 
-### 📊 Actividad en Vivo & Métricas
+### 📊 Distribución de Código & Ecosistema Activo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tibiyacks/tibiyacks/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas de GitHub" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tibiyacks/tibiyacks/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Lenguajes Más Usados" height="150" />
+  <img src="./assets/languages-distribution.svg" alt="Active Codebase Distribution" />
 </p>
 
 </div>
