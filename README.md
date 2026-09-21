@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25&height=180&section=header&text=JUAN%20CARLOS%20SILVA%20PANTA&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Solutions%20Architect&descFontSize=18&descAlignY=68" width="100%"/>
 
 [![Sitio Web Oficial](https://img.shields.io/badge/jsilvasolutions.com-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jsilvasolutions.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tibiyacks)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jsilvap)
 [![Email](https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tibiyacks@gmail.com)
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-24292e?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
